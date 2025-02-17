@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+table,thead,tbody,td,th{
+	border-collapse:collapse;
+	border: 1px solid black;
+}
